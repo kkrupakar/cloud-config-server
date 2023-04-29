@@ -2,3 +2,6 @@ application:
     config:
         env: Prod
         message: Production
+
+spring:
+    port: 8888

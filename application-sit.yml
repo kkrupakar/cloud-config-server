@@ -2,3 +2,6 @@ application:
     config:
         env: Sit
         message: SIT
+
+spring:
+    port: 8888

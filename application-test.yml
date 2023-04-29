@@ -2,3 +2,6 @@ application:
     config:
         env: Test
         message: Test
+    
+spring:
+    port: 8888

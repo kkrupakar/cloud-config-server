@@ -2,3 +2,6 @@ application:
     config:
         env: Dev
         message: Devlopment
+
+spring:
+    port: 8888
