@@ -1,0 +1,4 @@
+application:
+    config:
+        env: Prod
+        message: Production
